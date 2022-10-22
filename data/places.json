@@ -1,0 +1,26 @@
+[
+    {
+        "id": "coxsbazar1",
+        "place_name": "Cox's Bazar",
+        "description": "lorem ipsum, dolor sit maet cosdhf adipicsing elidt, eatque sape fugit labore eos fdslaklsdjfaslkfdjaslkl aksfa  ajfkj  foing dl a agoo d ljon dfhea f.",
+        "img_url": "https://i.ibb.co/QXjL1GH/Rectangle1.png"
+    },
+    {
+        "id": "sreemangal2",
+        "place_name": "Sreemangal",
+        "description": "Sreemangal is a beautiful place. It is known for its tea leaves as there are lots of hills which has abandant amounts of trees. The green views looks amazing",
+        "img_url": "https://i.ibb.co/t2tzzjm/Sreemongol.png"
+    },
+    {
+        "id": "sundarban3",
+        "place_name": "Sundarban",
+        "description": "lorem ipsum, dolor sit maet cosdhf adipicsing elidt, eatque sape fugit labore eos fdslaklsdjfaslkfdjaslkl aksfa  ajfkj  foing dl a agoo d ljon dfhea f.",
+        "img_url": "https://i.ibb.co/QXjL1GH/Rectangle1.png"
+    },
+    {
+        "id": "shajek3",
+        "place_name": "Sajek Valley",
+        "description": "lorem ipsum, dolor sit maet cosdhf adipicsing elidt, eatque sape fugit labore eos fdslaklsdjfaslkfdjaslkl aksfa  ajfkj  foing dl a agoo d ljon dfhea f.",
+        "img_url": "https://i.ibb.co/2h35Tkb/Sajek.png"
+    }
+]
